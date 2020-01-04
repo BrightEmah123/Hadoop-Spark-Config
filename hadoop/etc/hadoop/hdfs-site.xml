@@ -23,11 +23,11 @@
 </property>
 <property>
 	<name>dfs.namenode.name.dir</name>
-	<value>E:\#BrightEmah\Program86\hadoop-2.7.3\hadoop-2.7.3\data\namenode</value>
+	<value>E:\hadoop-2.7.3\hadoop-2.7.3\data\namenode</value>
 </property>
 <property>
 	<name>dfs.datanode.data.dir</name>
-	<value>E:\#BrightEmah\Program86\hadoop-2.7.3\hadoop-2.7.3\data\datanode</value>
+	<value>E:\hadoop-2.7.3\hadoop-2.7.3\data\datanode</value>
 </property>
 <property>
 	<name>dfs.webdfs.enabled</name>
